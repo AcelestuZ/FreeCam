@@ -1,5 +1,4 @@
--- File: Freecam.lua
--- Powered by Main.gui Universal Library
+-- File: FCMain.lua
 
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/Main.gui"))()
 
