@@ -1,6 +1,6 @@
 -- File: FCMain.lua
 
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/Main.gui"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/AcelestuZ/FCGUI/main/FCMain.lua"))()
 
 local Players = game:GetService("Players")
 local LP = Players.LocalPlayer
